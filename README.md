@@ -1,4 +1,4 @@
-densityjs
+densifyjs
 =========
 
-A plain js library to change images and background images from standard to retina resolution
+A plain JavaScript library to change images and background images from standard to retina resolution.
