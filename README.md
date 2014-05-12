@@ -32,6 +32,6 @@ In your HTML page
 
 ----
 
-| API             | Params          | Required  | Description  |
-|:- |:- |:- |:-|
-| `setAttribute`  | `attributeName` | No        | Sets the name of the HTML5 data attribute name, default value is `data-retina` |
+API | Params | Required | Description
+--- | --- | --- | ---
+`setAttribute`  | `attributeName`*:String* | No        | Sets the name of the HTML5 data attribute name, default value is `data-retina`
