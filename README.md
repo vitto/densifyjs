@@ -1,14 +1,12 @@
 densifyjs
 =========
-----
 
 A plain JavaScript library to change images and background images from standard to retina resolution.
 
 You don't need **jQuery** or other libraries to use it.
 
-----
 
-In your HTML page
+#####In your HTML page
 
 ```html
 <!DOCTYPE html>
@@ -30,7 +28,7 @@ In your HTML page
 </html>
 ```
 
-----
+#####Documentation
 
 API | Params | Required | Description
 --- | --- | --- | ---
