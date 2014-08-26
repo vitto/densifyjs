@@ -5,6 +5,8 @@ A plain JavaScript library to change images and background images from standard 
 
 You don't need **jQuery** or other libraries to use it.
 
+[Download version 1.0.0][release]
+
 
 #####In your HTML page
 
@@ -33,3 +35,5 @@ You don't need **jQuery** or other libraries to use it.
 API | Params | Required | Description
 --- | --- | --- | ---
 `setAttribute`  | `attributeName`*:String* | No        | Sets the name of the HTML5 data attribute name, default value is `data-retina`
+
+[release]: https://github.com/vitto/densifyjs/releases/download/1.0.0/densify-v1.0.0.min.js
